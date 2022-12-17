@@ -7,3 +7,5 @@ Author: Iswarya
 2. chat screen code
 
 3. Attachments (Image,video,Audio) code
+
+4. background image for chats code
