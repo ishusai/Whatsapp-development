@@ -9,3 +9,7 @@ Author: Iswarya
 3. Attachments (Image,video,Audio) code
 
 4. background image for chats code
+
+5. Adding the audio call 
+
+6. Adding the video call
