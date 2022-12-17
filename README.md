@@ -1,2 +1,2 @@
 # Whatsapp-development
-This repository is to develop a chat application
+This repository is to develop last seen application
